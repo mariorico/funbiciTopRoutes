@@ -6,6 +6,9 @@
       "url": "https://valenciacicloturismo.wordpress.com/alicante-aspe-fondo-de-les-neus-por-caminos-sin-trafico-y-el-sendero-del-tarafa/",
       "description": "No sólo permite desplazarte cómodamente entre Alicante y Aspe, sino que incluye un buen número de elementos de interés",
       "score":7.7,
+      "km":55,
+      "circular":1,
+      "dificulty":1,
       "thumbnailUrl": "https://valenciacicloturismo.files.wordpress.com/2021/04/portadaaspe.jpg?w=1024"
     },
     {
@@ -15,6 +18,9 @@
       "url": "https://valenciacicloturismo.wordpress.com/la-toscana-valenciana-de-villena-a-xativa/",
       "description": "Queríamos conocer la que algunos llaman “La Toscana Valenciana”, y para ello iniciábamos viaje en la ciudad de Villena, a la cual se puede acceder fácilmente en Media Distancia desde Alicante o desde Valencia.",
       "score":"SN",
+      "km":55,
+      "circular":1,
+      "dificulty":1,
       "thumbnailUrl": "https://valenciacicloturismo.files.wordpress.com/2017/11/portada71.jpg?w=1024"
     },
     {
@@ -24,15 +30,21 @@
       "url": "https://valenciacicloturismo.wordpress.com/eurovelo/",
       "description": "Éste es el trazado provisional propuesto por la Conselleria d’Habitatge, Obres Públiques i Vertebració del Territori para la Comunitat Valenciana",
       "score":"SN",
+      "km":55,
+      "circular":1,
+      "dificulty":1,
       "thumbnailUrl": "https://valenciacicloturismo.files.wordpress.com/2020/12/portadaeurovelo.jpg?w=1024"
     },
     {
        
       "id": 4,
-      "title": "Vía Verde Ojos Negros en bici",
+      "title": "Vía Verde Ojos Negros en bici (Teruel – Barracas – Jérica – Segorbe – Sagunto – Valencia",
       "url": "https://valenciacicloturismo.wordpress.com/via-verde-ojos-negros/",
       "description": "Os presentamos una ruta icónica, espectacular, la más larga de España, ideal para iniciarse en el cicloturismo de alforjas.",
       "score":"SN",
+      "km":55,
+      "circular":1,
+      "dificulty":1,
       "thumbnailUrl": "https://valenciacicloturismo.files.wordpress.com/2017/02/portada41.jpg?w=1024"
     },
     {
@@ -42,6 +54,9 @@
       "url": "https://valenciacicloturismo.wordpress.com/via-verde-del-xixarra-serpis/",
       "description": "Hoy os proponemos una ruta espectacular, que parte de Villena, recorre la zona de umbría de Mariola, y que permite visitar municipios tan atractivos como Villena, Bocairent o Denia",
       "score":"SN",
+      "km":55,
+      "circular":1,
+      "dificulty":1,
       "thumbnailUrl": "https://valenciacicloturismo.files.wordpress.com/2017/01/portada13.jpg?w=1024"
     },
     {
@@ -51,6 +66,9 @@
       "url": "https://via.placeholder.com/600/56a8c2",
       "description": "something to be added",
       "score":8.2,
+      "km":55,
+      "circular":1,
+      "dificulty":1,
       "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
     },
     {
@@ -60,6 +78,9 @@
       "url": "https://via.placeholder.com/600/b0f7cc",
       "description": "something to be added",
       "score":8.2,
+      "km":55,
+      "circular":1,
+      "dificulty":1,
       "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc"
     },
     {
@@ -69,6 +90,9 @@
       "url": "https://via.placeholder.com/600/54176f",
       "description": "something to be added",
       "score":8.2,
+      "km":55,
+      "circular":1,
+      "dificulty":1,
       "thumbnailUrl": "https://via.placeholder.com/150/54176f"
     },
     {
@@ -78,6 +102,9 @@
       "url": "https://via.placeholder.com/600/51aa97",
       "description": "something to be added",
       "score":8.2,
+      "km":55,
+      "circular":1,
+      "dificulty":1,
       "thumbnailUrl": "https://via.placeholder.com/150/51aa97"
     },
     {
