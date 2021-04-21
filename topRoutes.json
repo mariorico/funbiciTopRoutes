@@ -7,8 +7,8 @@
       "description": "No sólo permite desplazarte cómodamente entre Alicante y Aspe, sino que incluye un buen número de elementos de interés",
       "score":7.7,
       "km":55,
-      "circular":1,
-      "dificulty":1,
+      "circular":0,
+      "dificulty":2,
       "thumbnailUrl": "https://valenciacicloturismo.files.wordpress.com/2021/04/portadaaspe.jpg?w=1024"
     },
     {
@@ -31,7 +31,7 @@
       "description": "Éste es el trazado provisional propuesto por la Conselleria d’Habitatge, Obres Públiques i Vertebració del Territori para la Comunitat Valenciana",
       "score":"SN",
       "km":55,
-      "circular":1,
+      "circular":0,
       "dificulty":1,
       "thumbnailUrl": "https://valenciacicloturismo.files.wordpress.com/2020/12/portadaeurovelo.jpg?w=1024"
     },
