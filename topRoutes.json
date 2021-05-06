@@ -9,8 +9,8 @@
     "circular": 0,
     "dificulty": 2,
     "thumbnailUrl": "https://valenciacicloturismo.files.wordpress.com/2021/04/portadaaspe.jpg?w=1024",
-    "wikiloc": "http://www.wikiloc.es",
-    "googleMaps": "www.maps.google.es/"
+    "wikiloc": "https://es.wikiloc.com/rutas-cicloturismo/alicante-aspe-hondon-de-las-nieves-70113206",
+    "googleMaps": "https://www.google.com/maps/d/embed?mid=1UEhK7s7q5ARyqxCljHNfnVmhV9GoKldt&amp;w=900&amp;h=900&amp;ll=38.34071487553001%2C-0.6868850875268873&amp;z=11"
   },
   {
     "id": 2,
@@ -22,8 +22,8 @@
     "circular": 1,
     "dificulty": 1,
     "thumbnailUrl": "https://valenciacicloturismo.files.wordpress.com/2017/11/portada71.jpg?w=1024",
-    "wikiloc": "http://www.wikiloc.es",
-    "googleMaps": "www.maps.google.es/"
+    "wikiloc": "https://es.wikiloc.com/rutas-cicloturismo/villena-xativa-por-la-via-augusta-71030229",
+    "googleMaps": "https://es.wikiloc.com/rutas-cicloturismo/villena-xativa-por-la-via-augusta-71030229"
   },
   {
     "id": 3,
@@ -61,68 +61,6 @@
     "circular": 1,
     "dificulty": 1,
     "thumbnailUrl": "https://valenciacicloturismo.files.wordpress.com/2017/01/portada13.jpg?w=1024",
-    "wikiloc": "http://www.wikiloc.es",
-    "googleMaps": "www.maps.google.es/"
-  },
-  {
-    "id": 6,
-    "title": "Rutas en bici por Denia – Calpe / Litoral Norte de Alicante / Marina Baixa",
-    "url": "https://via.placeholder.com/600/56a8c2",
-    "description": "something to be added",
-    "score": 8.2,
-    "km": 55,
-    "circular": 1,
-    "dificulty": 1,
-    "thumbnailUrl": "https://via.placeholder.com/150/56a8c2",
-    "wikiloc": "http://www.wikiloc.es",
-    "googleMaps": "www.maps.google.es/"
-  },
-  {
-    "id": 7,
-    "title": "officia delectus consequatur vero aut veniam explicabo molestias",
-    "url": "https://via.placeholder.com/600/b0f7cc",
-    "description": "something to be added",
-    "score": 8.2,
-    "km": 55,
-    "circular": 1,
-    "dificulty": 1,
-    "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc",
-    "wikiloc": "http://www.wikiloc.es",
-    "googleMaps": "www.maps.google.es/"
-  },
-  {
-    "id": 8,
-    "title": "aut porro officiis laborum odit ea laudantium corporis",
-    "url": "https://via.placeholder.com/600/54176f",
-    "description": "something to be added",
-    "score": 8.2,
-    "km": 55,
-    "circular": 1,
-    "dificulty": 1,
-    "thumbnailUrl": "https://via.placeholder.com/150/54176f",
-    "wikiloc": "http://www.wikiloc.es",
-    "googleMaps": "www.maps.google.es/"
-  },
-  {
-    "id": 9,
-    "title": "qui eius qui autem sed",
-    "url": "https://via.placeholder.com/600/51aa97",
-    "description": "something to be added",
-    "score": 8.2,
-    "km": 55,
-    "circular": 1,
-    "dificulty": 1,
-    "thumbnailUrl": "https://via.placeholder.com/150/51aa97",
-    "wikiloc": "http://www.wikiloc.es",
-    "googleMaps": "www.maps.google.es/"
-  },
-  {
-    "id": 10,
-    "title": "beatae et provident et ut vel",
-    "url": "https://via.placeholder.com/600/810b14",
-    "description": "something to be added",
-    "score": 8.2,
-    "thumbnailUrl": "https://via.placeholder.com/150/810b14",
     "wikiloc": "http://www.wikiloc.es",
     "googleMaps": "www.maps.google.es/"
   }
