@@ -17,7 +17,7 @@
     "title": "La Toscana Valenciana – Terres dels Alforins",
     "url": "https://valenciacicloturismo.wordpress.com/la-toscana-valenciana-de-villena-a-xativa/",
     "description": "Queríamos conocer la que algunos llaman “La Toscana Valenciana”, y para ello iniciábamos viaje en la ciudad de Villena, a la cual se puede acceder fácilmente en Media Distancia desde Alicante o desde Valencia.",
-    "score": "SN",
+    "score": "SV",
     "km": 55,
     "circular": 1,
     "dificulty": 1,
@@ -27,28 +27,28 @@
   },
   {
     "id": 3,
-    "title": "EuroVelo 8 COMUNIDAD VALENCIANA",
-    "url": "https://valenciacicloturismo.wordpress.com/eurovelo/",
-    "description": "Éste es el trazado provisional propuesto por la Conselleria d’Habitatge, Obres Públiques i Vertebració del Territori para la Comunitat Valenciana",
-    "score": "SN",
-    "km": 55,
+    "title": "Ponts de Ferro del Xúquer",
+    "url": "https://valenciacicloturismo.wordpress.com/ponts-de-ferro-del-xuquer/",
+    "description": "Esta ruta discurre plácidamente por la Ribera del Xúquer y nos lleva a recorrer una de las señas de identidad más importantes de la comarca, el conjunto de los Ponts de Ferro del Xúquer, un legado patrimonial que merece la pena disfrutar.",
+    "score": "9",
+    "km": 56,
     "circular": 0,
     "dificulty": 1,
-    "thumbnailUrl": "https://valenciacicloturismo.files.wordpress.com/2020/12/portadaeurovelo.jpg?w=1024",
-    "wikiloc": "http://www.wikiloc.es",
-    "googleMaps": "www.maps.google.es/"
+    "thumbnailUrl": "https://valenciacicloturismo.files.wordpress.com/2021/05/resizer_16216908945560-01.jpg?w=2000",
+    "wikiloc": "https://es.wikiloc.com/rutas-cicloturismo/ponts-de-ferro-del-xuquer-73995818",
+    "googleMaps": "https://www.google.com/maps/d/embed?mid=1UEhK7s7q5ARyqxCljHNfnVmhV9GoKldt&amp;w=900&amp;h=900&amp;ll=39.1400827343956%2C-0.4572318016050769&amp;z=11"
   },
   {
     "id": 4,
     "title": "Vía Verde Ojos Negros en bici (Teruel – Barracas – Jérica – Segorbe – Sagunto – Valencia",
     "url": "https://valenciacicloturismo.wordpress.com/via-verde-ojos-negros/",
     "description": "Os presentamos una ruta icónica, espectacular, la más larga de España, ideal para iniciarse en el cicloturismo de alforjas.",
-    "score": "SN",
-    "km": 55,
-    "circular": 1,
+    "score": "9",
+    "km": 167,
+    "circular": 0,
     "dificulty": 1,
     "thumbnailUrl": "https://valenciacicloturismo.files.wordpress.com/2017/02/portada41.jpg?w=1024",
-    "wikiloc": "http://www.wikiloc.es",
+    "wikiloc": "https://es.wikiloc.com/rutas-cicloturismo/via-verde-ojos-negros-teruel-valencia-actualizada-2021-64249088",
     "googleMaps": "www.maps.google.es/"
   },
   {
@@ -56,12 +56,12 @@
     "title": "Vía verde del Xixarra – Serpis (Villena – Muro – Dénia)",
     "url": "https://valenciacicloturismo.wordpress.com/via-verde-del-xixarra-serpis/",
     "description": "Hoy os proponemos una ruta espectacular, que parte de Villena, recorre la zona de umbría de Mariola, y que permite visitar municipios tan atractivos como Villena, Bocairent o Denia",
-    "score": "SN",
-    "km": 55,
-    "circular": 1,
+    "score": "8,5",
+    "km": 123,
+    "circular": 0,
     "dificulty": 1,
     "thumbnailUrl": "https://valenciacicloturismo.files.wordpress.com/2017/01/portada13.jpg?w=1024",
-    "wikiloc": "http://www.wikiloc.es",
-    "googleMaps": "www.maps.google.es/"
+    "wikiloc": "https://es.wikiloc.com/rutas-cicloturismo/villena-muro-de-alcoy-denia-vv-xixarra-vv-serpis-55212760",
+    "googleMaps": "https://es.wikiloc.com/rutas-cicloturismo/villena-muro-de-alcoy-denia-vv-xixarra-vv-serpis-55212760"
   }
 ]
